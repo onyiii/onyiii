@@ -23,9 +23,10 @@
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :seedling: I'm currently learning React.
-- 🤔 I'm looking forward to being a FullStack
+- 🤔 I'm looking forward to being a FullStack Developer
 - :zap: In my free time, I surf the net and Netflix.
 - 😄 Pronouns: She/her
+- ⚡ Fun fact: I know more than I think I know
 - :mailbox:How to reach me:onyinyechukwuma14@gmail.com
 
 <!--
