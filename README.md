@@ -18,7 +18,7 @@
 
 
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :seedling: I'm currently learning React.
 - 🤔 I'm looking forward to being a FullStack Developer
 - :zap: In my free time, I surf the net and Netflix.
