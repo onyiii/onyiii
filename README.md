@@ -15,11 +15,11 @@
 
 ### :woman_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :seedling: I'm currently learning React.
-- 🤔 I'm looking forward to being a FullStack Developer
-- :zap: In my free time, I surf the net and Netflix.
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I know more than I think I know
+-💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+🌱 I’m currently learning JavaScript, Reactjs, and Python.
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+💼 Job interests: Software Engineer, Front Engineer(Intern or Junior level).
 - :mailbox:How to reach me:onyinyechukwuma14@gmail.com
 
 <!--
